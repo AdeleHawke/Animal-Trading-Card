@@ -5,19 +5,19 @@
  	 box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.24);
   	border:3px groove darkblue;
     width:450px;
-  	height:800px;
+  	height:950px;
   	padding:10px;
   	border-radius:4px;
   	background-image:url(127524.jpg);
-    background-size: 650px 860px;
+    background-size: 750px 960px;
     color:white;
   	cursor:pointer;
   	text-align: center;
-  	font-size:x-large;
+  	font-size:large;
   	-webkit-text-stroke: 1px black;
 }
-
 .name{
+  background-color: rgba(90, 0, 0, 0.6);
  	 -webkit-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.24);
 	-moz-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.24);
 	box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.24);
@@ -33,40 +33,39 @@
       1px -1px 0 #000,
       -1px 1px 0 #000,
        1px 1px 0 #000;
+  	width:415px;	
 }
-
 .image{
-  border-radius:5px;
+  border-radius:10px;
   border:3px groove darkblue;
-  image-rendering: auto;
-  height:200px;
+  height:237px;
   margin-top:10px;
-  
 }
-
 .card{
+    background-color: rgba(90, 0, 0, 0.6);
   padding:10px;
   -webkit-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.24);
  	 -moz-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.24);
  	 box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.24);
-  border:3px;
- 
-  
+  border-radius:10px;
+  height:580px;
+  width:405px;
+  margin:10px;
+  border:3px groove darkblue;
 }
-
 .interesting-fact{
   font-style:italic;
 }
-
 .facts{
-  
+  list-style-type: none;
   border:3px;
   text-align:left;
 }
-
 .fact-name{
-
+   font-weight:bold;
 }
 .summary{
- 
+ margin:10px;
+  text-align:left;
+  padding:inherit;
 }
