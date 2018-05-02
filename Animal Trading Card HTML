@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Dragon Ball Sayan</title>
+  	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<div id="container">
+		<h1 class="name">GOKU</h1>
+		<!-- photo credit: wikipedia.org, image taken by Ritik -->
+		<img src="589c746f4beba883a0802c940c86a57f.gif" alt="goku" class="image">
+		<div class="card">
+			<p class="interesting-fact">A layer of mucus on the clownfish's skin makes it immune to the fish-eating anemone's lethal sting.</p>
+			<ul class="facts">
+				<li><span class="fact name">Scientific Name</span>: Amphiprioninae</li>
+				<li><span class="fact name">Average Length</span>: 11 centimeters</li>
+				<li><span class="fact name">Average Lifespan</span>: 7 years</li>
+				<li><span class="fact name">Habitat</span>: Tropical coral reefs</li>
+			</ul>
+			<p class="summary">Bright orange with three distinctive white bars, clown anemonefish are among the most recognizable of all reef-dwellers. They reach about 11 centimeters in length, and are named for the multicolored sea anemone in which they make their homes.</p>
+		</div>
+	</div>
+</body>
+</html>
