@@ -1,0 +1,34 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+	<div id="block">
+		<!-- your favorite animal's name goes here -->
+		<h3 class="title">Niffler</h3>
+		<!-- your favorite animal's image goes here -->
+		<img src="http://static3.businessinsider.com/image/582e75f4dd0895526d8b4bb7-2399/niffler%20fantastic%20beasts.jpg" alt="niffler-picture" class="niffler">
+
+		<div class="text">
+			<!-- your favorite animal's interesting fact goes here -->
+			<p class="introduction">Nifflers had a pouch on their bellies which held far more than at first seemed possible, like the effects of a Undetectable Extension Charm on a container!
+				<a href=:"http://harrypotter.wikia.com/wiki/Niffler"> Source:Daily Prophet</a></p>
+			<hr>
+			<ul class="list">
+				<!-- your favorite animal's list items go here -->
+
+				<li><span><strong>Hair colour</strong></span>: black</li>
+				<li><span><strong>Native range</strong></span>: Britain</li>
+				<li><span><strong>Ministry of magic classification</strong></span>: XXX</li>
+				<li><span><strong>Used by</strong></span>: Goblins</li>
+
+			</ul>
+			<hr>
+			<!-- your favorite animal's description goes here -->
+			<p><strong>The Niffler</strong> is a British beast. Fluffy, black and long-snouted, this burrowing creature has a predilection for anything glittery. Nifflers are often kept by goblins to burrow deep into the earth for treasure.</p>
+		</div>
+	</div>
+</body>
+</html>
